@@ -9,7 +9,7 @@ require "dbh.inc.php";
     <meta name="description" content="">
     <meta name="author" content="Jacek Maciocha">
     <meta name="generator" content="Jekyll v3.8.6">
-    <title>Tomasz Mes</title>
+    <title>Jacek Maciocah</title>
 
     <!-- Bootstrap core CSS -->
 <link href="css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
